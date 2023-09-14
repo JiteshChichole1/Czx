@@ -1,6 +1,6 @@
 # Chat Web App
 
-This is a simple chat web application built with Flask, Socket.IO, and SQLAlchemy.
+This is a Czx chat web application built with Flask, Socket.IO, and SQLAlchemy.
 
 ## Project Structure
 
@@ -58,7 +58,7 @@ Flask_cors used because of Werkzeug limitation issues I had.
 ## Screenshot
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" src="https://github.com/Adebowale-Morakinyo/Chat_Web_App/blob/main/Screenshot/Home%20Page.png">  Home Page|  <img width="1604" src="https://github.com/Adebowale-Morakinyo/Chat_Web_App/blob/main/Screenshot/Login.png" > Login Page|<img width="1604" src="https://github.com/Adebowale-Morakinyo/Chat_Web_App/blob/main/Screenshot/Chatting%201.PNG"> Chatting Window 1|
+Chatting Window 1|
 |<img width="1604" src="https://github.com/Adebowale-Morakinyo/Chat_Web_App/blob/main/Screenshot/Chatting%203.PNG"> Chatting Window 2|  <img width="1604" src="https://github.com/Adebowale-Morakinyo/Chat_Web_App/blob/main/Screenshot/Chat%20Window.png"> Chatting Window 3|<img width="1604" src="https://github.com/Adebowale-Morakinyo/Chat_Web_App/blob/main/Screenshot/DataViz.png"> Data visualization Page|
 
 ## Reference
